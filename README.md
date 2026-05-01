@@ -25,3 +25,5 @@
 <p>&emsp;&emsp;<strong>Hi, hello, I'm JiGuroLGC. I love programming, photography, magic, and music.</strong></p>
 <p>&emsp;&emsp;<strong>Love computer science and IT Internet business, and hope to become an excellent developer.</strong></p>
 </tr></td>
+
+</table>
