@@ -13,17 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=JiGuroLGC&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>
 
-#  Hello
-
-<table>
-<tr><td>
-
-###  About Me
+##  About Me
 
 <p>&emsp;&emsp;嗨，你好，我是刘叽咕。热爱编程、摄影、魔术、音乐。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;<strong>Hi, hello, I'm JiGuroLGC. I love programming, photography, magic, and music.</strong></p>
 <p>&emsp;&emsp;<strong>Love computer science and IT Internet business, and hope to become an excellent developer.</strong></p>
-</tr></td>
-
-</table>
