@@ -1,11 +1,18 @@
 <div align="center">
 
+<!-- 渐变波浪分隔线 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8c36db,c32136,ff69b4&height=120&section=header&text=&fontSize=0" />
+
+<br>
+
+<!-- 头像 -->
+<img src="https://github.com/JiGuroLGC/JiGuroLGC/blob/main/head_portrait.png?raw=true" width="180" alt="JiGuroLGC" />
+
+<br>
+
 # 刘叽咕 - JiGuroLGC
 
 `Hello World`
-
-<!-- 渐变波浪分隔线 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8c36db,c32136,ff69b4&height=120&section=header&text=&fontSize=0" />
 
 <!-- 社交链接 -->
 <div>
@@ -24,12 +31,6 @@
   <img src="https://komarev.com/ghpvc/?username=JiGuroLGC&label=Views&color=orange&style=for-the-badge" alt="访问量统计" />
 </div>
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/JiGuroLGC/JiGuroLGC/blob/main/head_portrait.png?raw=true" width="180" alt="JiGuroLGC" />
 </div>
 
 <br>
