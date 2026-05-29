@@ -100,10 +100,11 @@ A developer passionate about computer science and internet technology, focusing 
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8c36db,c32136,ff69b4&height=120&section=footer&text=&fontSize=0" />
-  
-<br>
 
-  <p><i>保持好奇，持续学习，乐于分享</i><br>
+  <br>
+
+  <p>
+    <i>保持好奇，持续学习，乐于分享</i><br>
     <i>Stay curious, keep learning, enjoy sharing.</i>
   </p>
 </div>
