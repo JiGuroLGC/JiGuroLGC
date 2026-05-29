@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- 静态标题：纯 SVG，无动画，无外部依赖 -->
-<<svg xmlns="http://www.w3.org/2000/svg" width="500" height="100" viewBox="0 0 500 100" style="max-width: 100%;">
-  <text x="250" y="45" text-anchor="middle" font-family="Fira Code, 'Courier New', Consolas, monospace" font-size="32" font-weight="700" fill="#8c36db">刘叽咕 - JiGuroLGC</text>
-  <text x="250" y="80" text-anchor="middle" font-family="Fira Code, 'Courier New', Consolas, monospace" font-size="18" fill="#8B949E">Hello World</text>
-</svg>
+# 👨‍💻 刘叽咕 - JiGuroLGC
+
+### <code>Hello World</code>
 
 <!-- 渐变波浪分隔线 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8c36db,c32136,ff69b4&height=120&section=header&text=&fontSize=0" />
