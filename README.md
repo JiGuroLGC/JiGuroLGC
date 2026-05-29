@@ -47,7 +47,8 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JiGuroLGC&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8c36db&icon_color=ff69b4" width="100%" />
+<!-- GitHub 头像：直接调用官方头像接口，稳定可靠 -->
+<img src="https://github.com/JiGuroLGC.png?size=400" width="200" alt="JiGuroLGC 头像" />
 
 </td>
 </tr>
@@ -68,7 +69,8 @@
 ## 📊 GitHub Stats | 数据统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiGuroLGC&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8c36db" height="165" />
+  <!-- Top Languages：增加缓存参数，降低因请求频繁导致的加载失败 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiGuroLGC&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8c36db&cache_seconds=86400" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiGuroLGC&theme=radical&hide_border=true&background=0D1117" height="165" />
 </div>
 
