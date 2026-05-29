@@ -28,6 +28,9 @@
   <a href="https://space.bilibili.com/3461563325352845/">
     <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>&nbsp;
+  <a href="https://www.coolapk.com/u/31694043">
+    <img src="https://img.shields.io/badge/COOLAPK-酷安-10b981?style=for-the-badge" />
+  </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=JiGuroLGC&label=Views&color=orange&style=for-the-badge" alt="访问量统计" />
 </div>
 
@@ -62,10 +65,10 @@ A developer passionate about computer science and internet technology, focusing 
 
 <div align="center">
 
-| 项目 | 描述 | 技术栈 | Stars |
-|:---:|:---|:---|:---:|
-| [BetterVia](https://github.com/JiGuroLGC/BetterVia) | 一款针对 Via 浏览器进行优化的 Xposed 模块，旨在使软件的使用更加轻快便捷 | `Java` `JavaScript` `Html` | ![Stars](https://img.shields.io/github/stars/JiGuroLGC/BetterVia?style=flat-square&color=8c36db&labelColor=0D1117) |
-| [FuckGoogleLicense](https://github.com/JiGuroLGC/FuckGoogleLicense) | 一款绕过谷歌服务证书校验的 Xposed 模块 | `Java` | ![Stars](https://img.shields.io/github/stars/JiGuroLGC/FuckGoogleLicense?style=flat-square&color=8c36db&labelColor=0D1117) |
+| 项目 | 描述 | 技术栈 |
+|:---:|:---|:---|
+| [BetterVia](https://github.com/JiGuroLGC/BetterVia) <br> ![Stars](https://img.shields.io/github/stars/JiGuroLGC/BetterVia?style=flat-square&color=8c36db&labelColor=0D1117) | 一款针对 Via 浏览器进行优化的 Xposed 模块，旨在使软件的使用更加轻快便捷 | `Java` `JavaScript` `Html` |
+| [FuckGoogleLicense](https://github.com/JiGuroLGC/FuckGoogleLicense) <br> ![Stars](https://img.shields.io/github/stars/JiGuroLGC/FuckGoogleLicense?style=flat-square&color=8c36db&labelColor=0D1117) | 一款绕过谷歌服务证书校验的 Xposed 模块 | `Java` |
 
 </div>
 
@@ -120,9 +123,9 @@ A developer passionate about computer science and internet technology, focusing 
 |:---:|:---|
 | 2026-05-03 | [【网络逆向】TS到视频HLS加密简单逆向实录](https://bbs.binmt.cc/thread-166021-1-1.html) |
 | 2025-10-02 | [【解密实战】简单的图片加密分析](https://bbs.binmt.cc/thread-157147-1-1.html) |
-| 2026-08-01 | [【逆向思路】Native化软件弹窗去除](https://bbs.binmt.cc/thread-153991-1-1.html) |
-| 2026-07-16 | [【全网首发】手撕谷歌服务校验](https://bbs.binmt.cc/thread-153126-1-1.html) |
-| 2026-05-15 | [【逆向思路】Via浏览器去除白名单限制](https://bbs.binmt.cc/thread-153036-1-1.html) |
+| 2025-08-01 | [【逆向思路】Native化软件弹窗去除](https://bbs.binmt.cc/thread-153991-1-1.html) |
+| 2025-07-16 | [【全网首发】手撕谷歌服务校验](https://bbs.binmt.cc/thread-153126-1-1.html) |
+| 2025-05-15 | [【逆向思路】Via浏览器去除白名单限制](https://bbs.binmt.cc/thread-153036-1-1.html) |
 
 </div>
 
