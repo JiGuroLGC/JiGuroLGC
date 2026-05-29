@@ -63,7 +63,7 @@ A developer passionate about computer science and internet technology, focusing 
 
 | 正在钻研 | 持续学习 | 热衷方向 |
 |:---:|:---:|:---:|
-| 逆向工程与安全研究 | Rust / Go 系统编程 | 开源工具与自动化脚本 |
+| 逆向工程与网络安全 | Kotlin / JS 系统编程 | 开源工具与自动化脚本 |
 | 软件保护 & 破解分析 | 现代前端架构 | 摄影后期与视觉设计 |
 
 </div>
