@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👨‍💻 刘叽咕 - JiGuroLGC
+# 刘叽咕 - JiGuroLGC
 
-### <code>Hello World</code>
+`Hello World`
 
 <!-- 渐变波浪分隔线 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8c36db,c32136,ff69b4&height=120&section=header&text=&fontSize=0" />
@@ -21,7 +21,6 @@
   <a href="https://space.bilibili.com/3461563325352845/">
     <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>&nbsp;
-  <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=JiGuroLGC&label=Views&color=orange&style=for-the-badge" alt="访问量统计" />
 </div>
 
@@ -29,38 +28,28 @@
 
 <br>
 
-<!-- 圆角头像：使用静态 SVG 裁剪，GitHub 支持静态 SVG 渲染 -->
 <div align="center">
-  <svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <clipPath id="circleClip">
-        <circle cx="90" cy="90" r="90" />
-      </clipPath>
-    </defs>
-    <image href="https://github.com/JiGuroLGC.png?size=400" width="180" height="180" clip-path="url(#circleClip)" preserveAspectRatio="xMidYMid slice" />
-  </svg>
+  <img src="https://github.com/JiGuroLGC.png?size=400" width="180" alt="JiGuroLGC" />
 </div>
 
 <br>
 
-## 🎯 About Me | 关于我
+## About Me
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🇨🇳 嗨，你好，我是 **刘叽咕** 👋
+### 关于我
 
-> 热爱编程、摄影、魔术、音乐。  
-> 热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。
+一名热爱计算机科学与互联网技术的开发者，专注于逆向工程与软件安全研究。同时热衷于摄影、魔术与音乐，追求技术与艺术的平衡。
 
 </td>
 <td width="50%" valign="top">
 
-### 🇬🇧 Hi, I'm **JiGuroLGC** 👋
+### About Me
 
-> *I love programming, photography, magic, and music.*  
-> *Love computer science and IT Internet business, and hope to become an excellent developer.*
+A developer passionate about computer science and internet technology, focusing on reverse engineering and software security research. Also enthusiastic about photography, magic, and music, pursuing the balance between technology and art.
 
 </td>
 </tr>
@@ -68,11 +57,11 @@
 
 <br>
 
-## 🌱 Focus & Interests | 当前关注
+## Focus & Interests
 
 <div align="center">
 
-| 🔭 正在钻研 | 🌱 持续学习 | ⚡ 热衷方向 |
+| 正在钻研 | 持续学习 | 热衷方向 |
 |:---:|:---:|:---:|
 | 逆向工程与安全研究 | Rust / Go 系统编程 | 开源工具与自动化脚本 |
 | 软件保护 & 破解分析 | 现代前端架构 | 摄影后期与视觉设计 |
@@ -81,18 +70,7 @@
 
 <br>
 
-## 🏆 GitHub Trophy | 成就
-
-<div align="center">
-
-<!-- 成就卡片：使用单排布局，视觉更紧凑 -->
-<img src="https://github-profile-trophy.vercel.app/?username=JiGuroLGC&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
-
-<br>
-
-## 🛠️ Tech Stack | 技术栈
+## Tech Stack
 
 <div align="center">
 
@@ -102,17 +80,15 @@
 
 <br>
 
-## 📊 GitHub Stats | 数据统计
+## Contributions
 
 <div align="center">
-  <!-- 增加 include_all_commits 与缓存参数，提升加载稳定性 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JiGuroLGC&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8c36db&icon_color=ff69b4&include_all_commits=true&cache_seconds=1800" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiGuroLGC&theme=radical&hide_border=true&background=0D1117" height="165" />
 </div>
 
 <br>
 
-## 📈 Activity Graph | 贡献动态
+## Activity Graph
 
 <div align="center">
 
@@ -122,12 +98,11 @@
 
 <br>
 
-<!-- 页脚波浪 -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8c36db,c32136,ff69b4&height=120&section=footer&text=&fontSize=0" />
   
   <p>
-    <i>✨ 保持好奇，持续学习，乐于分享 ✨</i><br>
+    <i>保持好奇，持续学习，乐于分享</i><br>
     <i>Stay curious, keep learning, enjoy sharing.</i>
   </p>
 </div>
