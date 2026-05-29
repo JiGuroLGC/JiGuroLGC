@@ -31,28 +31,43 @@
 
 ## 🎯 About Me | 关于我
 
+<div align="center">
+  <!-- 圆角头像：调用 GitHub 官方头像，稳定可靠 -->
+  <img src="https://github.com/JiGuroLGC.png?size=400" width="180" style="border-radius: 50%;" alt="JiGuroLGC 头像" />
+</div>
+
+<br>
+
 <table>
 <tr>
-<td width="60%">
+<td width="50%" valign="top">
 
-### 嗨，你好，我是 **刘叽咕** 👋
+### 🇨🇳 嗨，你好，我是 **刘叽咕** 👋
 
 > 热爱编程、摄影、魔术、音乐。  
 > 热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。
 
-**Hi, hello, I'm JiGuroLGC.**  
-*I love programming, photography, magic, and music.*  
-*Love computer science and IT Internet business, and hope to become an excellent developer.*
-
 </td>
-<td width="40%" align="center">
+<td width="50%" valign="top">
 
-<!-- GitHub 头像：直接调用官方头像接口，稳定可靠 -->
-<img src="https://github.com/JiGuroLGC.png?size=400" width="200" alt="JiGuroLGC 头像" />
+### 🇬🇧 Hi, I'm **JiGuroLGC** 👋
+
+> *I love programming, photography, magic, and music.*  
+> *Love computer science and IT Internet business, and hope to become an excellent developer.*
 
 </td>
 </tr>
 </table>
+
+<br>
+
+## 🏆 GitHub Trophy | 成就
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JiGuroLGC&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+
+</div>
 
 <br>
 
@@ -69,9 +84,18 @@
 ## 📊 GitHub Stats | 数据统计
 
 <div align="center">
-  <!-- Top Languages：增加缓存参数，降低因请求频繁导致的加载失败 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiGuroLGC&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8c36db&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JiGuroLGC&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8c36db&icon_color=ff69b4" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiGuroLGC&theme=radical&hide_border=true&background=0D1117" height="165" />
+</div>
+
+<br>
+
+## 📈 Activity Graph | 贡献动态
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JiGuroLGC&theme=redical&hide_border=true&area=true&bg_color=0D1117" width="100%" />
+
 </div>
 
 <br>
