@@ -29,7 +29,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/JiGuroLGC.png?size=400" width="180" alt="JiGuroLGC" />
+  <img src="https://github.com/JiGuroLGC/JiGuroLGC/blob/main/head_portrait.png?raw=true" width="180" alt="JiGuroLGC" />
 </div>
 
 <br>
