@@ -58,6 +58,19 @@ A developer passionate about computer science and internet technology, focusing 
 
 <br>
 
+## Featured Projects
+
+<div align="center">
+
+| 项目 | 描述 | 技术栈 | Stars |
+|:---:|:---|:---|:---:|
+| [BetterVia](https://github.com/JiGuroLGC/BetterVia) | 一款针对 Via 浏览器进行优化的 Xposed 模块，旨在使软件的使用更加轻快便捷 | `Java` `JavaScript` `Html` | ![Stars](https://img.shields.io/github/stars/JiGuroLGC/BetterVia?style=flat-square&color=8c36db&labelColor=0D1117) |
+| [FuckGoogleLicense](https://github.com/JiGuroLGC/FuckGoogleLicense) | 一款绕过谷歌服务证书校验的 Xposed 模块 | `Java` | ![Stars](https://img.shields.io/github/stars/JiGuroLGC/FuckGoogleLicense?style=flat-square&color=8c36db&labelColor=0D1117) |
+
+</div>
+
+<br>
+
 ## Focus & Interests
 
 <div align="center">
@@ -94,6 +107,22 @@ A developer passionate about computer science and internet technology, focusing 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JiGuroLGC&theme=redical&hide_border=true&area=true&bg_color=0D1117" width="100%" />
+
+</div>
+
+<br>
+
+## Recent Posts
+
+<div align="center">
+
+| 日期 | 文章 |
+|:---:|:---|
+| 2026-05-03 | [【网络逆向】TS到视频HLS加密简单逆向实录](https://bbs.binmt.cc/thread-166021-1-1.html) |
+| 2025-10-02 | [【解密实战】简单的图片加密分析](https://bbs.binmt.cc/thread-157147-1-1.html) |
+| 2026-08-01 | [【逆向思路】Native化软件弹窗去除](https://bbs.binmt.cc/thread-153991-1-1.html) |
+| 2026-07-16 | [【全网首发】手撕谷歌服务校验](https://bbs.binmt.cc/thread-153126-1-1.html) |
+| 2026-05-15 | [【逆向思路】Via浏览器去除白名单限制](https://bbs.binmt.cc/thread-153036-1-1.html) |
 
 </div>
 
