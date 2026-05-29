@@ -1,31 +1,9 @@
 <div align="center">
 
-<!-- 自包含 SVG 打字机效果（无第三方服务依赖） -->
-<!-- 兼容性说明：GitHub 会过滤 JS/CSS，但 SVG 原生 SMIL 动画通常可保留；若动画被禁用，默认显示第一行文字 -->
-<<svg xmlns="http://www.w3.org/2000/svg" width="500" height="60" viewBox="0 0 500 60" style="max-width: 100%;">
-  <style>
-    .typing-text { font-family: 'Fira Code', 'Courier New', 'Consolas', monospace; font-size: 26px; font-weight: 600; }
-    .color-primary { fill: #8c36db; }
-    .color-secondary { fill: #ff69b4; }
-    .cursor { fill: #8c36db; }
-  </style>
-  
-  <!-- 第一行：默认显示，动画周期内保持后淡出 -->
-  <text x="250" y="38" text-anchor="middle" class="typing-text color-primary">
-    刘叽咕 - JiGuroLGC
-    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="4s" repeatCount="indefinite" />
-  </text>
-  
-  <!-- 第二行：默认隐藏，动画周期内淡入后保持 -->
-  <text x="250" y="38" text-anchor="middle" class="typing-text color-secondary" opacity="0">
-    Hello World
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5;0.55;0.95;1" dur="4s" repeatCount="indefinite" />
-  </text>
-  
-  <!-- 闪烁光标：仅在文本可见时显示 -->
-  <rect x="385" y="18" width="3" height="26" class="cursor" rx="1.5" opacity="0">
-    <animate attributeName="opacity" values="0;1;1;0;0;1;1;0;0" keyTimes="0;0.05;0.45;0.5;0.55;0.95;1;1;1" dur="4s" repeatCount="indefinite" />
-  </rect>
+<!-- 静态标题：纯 SVG，无动画，无外部依赖 -->
+<<svg xmlns="http://www.w3.org/2000/svg" width="500" height="100" viewBox="0 0 500 100" style="max-width: 100%;">
+  <text x="250" y="45" text-anchor="middle" font-family="Fira Code, 'Courier New', Consolas, monospace" font-size="32" font-weight="700" fill="#8c36db">刘叽咕 - JiGuroLGC</text>
+  <text x="250" y="80" text-anchor="middle" font-family="Fira Code, 'Courier New', Consolas, monospace" font-size="18" fill="#8B949E">Hello World</text>
 </svg>
 
 <!-- 渐变波浪分隔线 -->
@@ -45,6 +23,7 @@
   <a href="https://space.bilibili.com/3461563325352845/">
     <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>&nbsp;
+  <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=JiGuroLGC&label=Views&color=orange&style=for-the-badge" alt="访问量统计" />
 </div>
 
