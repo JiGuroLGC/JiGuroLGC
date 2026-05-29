@@ -29,14 +29,21 @@
 
 <br>
 
-## 🎯 About Me | 关于我
-
+<!-- 圆角头像：使用静态 SVG 裁剪，GitHub 支持静态 SVG 渲染 -->
 <div align="center">
-  <!-- 圆角头像：调用 GitHub 官方头像，稳定可靠 -->
-  <img src="https://github.com/JiGuroLGC.png?size=400" width="180" style="border-radius: 50%;" alt="JiGuroLGC 头像" />
+  <svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <clipPath id="circleClip">
+        <circle cx="90" cy="90" r="90" />
+      </clipPath>
+    </defs>
+    <image href="https://github.com/JiGuroLGC.png?size=400" width="180" height="180" clip-path="url(#circleClip)" preserveAspectRatio="xMidYMid slice" />
+  </svg>
 </div>
 
 <br>
+
+## 🎯 About Me | 关于我
 
 <table>
 <tr>
@@ -61,11 +68,25 @@
 
 <br>
 
+## 🌱 Focus & Interests | 当前关注
+
+<div align="center">
+
+| 🔭 正在钻研 | 🌱 持续学习 | ⚡ 热衷方向 |
+|:---:|:---:|:---:|
+| 逆向工程与安全研究 | Rust / Go 系统编程 | 开源工具与自动化脚本 |
+| 软件保护 & 破解分析 | 现代前端架构 | 摄影后期与视觉设计 |
+
+</div>
+
+<br>
+
 ## 🏆 GitHub Trophy | 成就
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JiGuroLGC&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+<!-- 成就卡片：使用单排布局，视觉更紧凑 -->
+<img src="https://github-profile-trophy.vercel.app/?username=JiGuroLGC&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
 </div>
 
@@ -84,7 +105,8 @@
 ## 📊 GitHub Stats | 数据统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiGuroLGC&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8c36db&icon_color=ff69b4" height="165" />
+  <!-- 增加 include_all_commits 与缓存参数，提升加载稳定性 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JiGuroLGC&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8c36db&icon_color=ff69b4&include_all_commits=true&cache_seconds=1800" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiGuroLGC&theme=radical&hide_border=true&background=0D1117" height="165" />
 </div>
 
