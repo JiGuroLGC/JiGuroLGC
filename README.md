@@ -16,7 +16,7 @@
 
 <!-- 社交链接 -->
 <div>
-  <a href="https://jigurolgc.github.io">
+  <a href="https://www.196104.xyz">
     <img src="https://img.shields.io/badge/Blog-博客-8c36db?style=for-the-badge&logo=hexo&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.52pojie.cn/home.php?mod=space&uid=2409414">
