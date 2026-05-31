@@ -115,7 +115,7 @@ A developer passionate about computer science and internet technology, focusing 
 
 <br>
 
-## Recent Posts
+## Featured Posts
 
 <div align="center">
 
